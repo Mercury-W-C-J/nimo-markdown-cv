@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# 王辰君
 
 <!--
 include contact information from the front matter
@@ -23,32 +23,16 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **上海交通大学** `2019.9 -`
 
 ```
-Pittsburgh, PA
+上海
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- 本科 工商管理（商务数据科学）
+- 辅修 应用数学系
 
-### **Columbia University** `2016.9 - 2018.5`
 
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
